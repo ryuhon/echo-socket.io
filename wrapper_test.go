@@ -4,7 +4,7 @@ import (
 	socketio "github.com/googollee/go-socket.io"
 	"github.com/labstack/echo/v4"
 	"github.com/stretchr/testify/assert"
-	echo_socket_io "github.com/umirode/echo-socket.io"
+	echo_socket_io "github.com/ryuhon/echo-socket.io"
 	"testing"
 )
 
